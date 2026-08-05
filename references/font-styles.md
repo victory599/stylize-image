@@ -1,7 +1,11 @@
 # 文字风格表
 
-问 Q6 前读并完整展示。跳过/越界/记录见 [question-cards.md](question-cards.md) Q6。
-#0 是给用户看的元规则，**不要**把该行原文填进 `{FONT_STYLE}`；展开与溶字旁饰见 [prompts.md](prompts.md)。
+**职责**：文字风格选项行的单一事实源。  
+**不写**：跳过/越界记录、`{FONT_STYLE}` 展开与溶字旁饰。  
+**何时读**：Q6 前（完整展示）；需题字时生成前。
+
+- **#0**：仅题面元规则，**禁止**填入 `{FONT_STYLE}`；展开 → [prompts.md](prompts.md)
+- 跳过/越界/记录 → [question-cards.md](question-cards.md) Q6
 
 | # | 文字风格 |
 |---|----------|
