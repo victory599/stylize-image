@@ -83,8 +83,8 @@
 | 画面风格 | 英文示例 |
 |----------|----------|
 | 0 绘本水粉 | Soft hand-lettered title, gouache-like strokes, warm muted inks, slight paper grain; keep high contrast from the art |
-| 1 赛璐珞 | Clean cel-animation title lettering, soft outline, translucent color fills |
-| 4 木刻 | Woodcut/block-print carved letterforms, limited ink colors, stamped print feel |
+| 1 动画光影 | Cinematic film-title lettering, crisp high-contrast type, soft glow rim light, atmospheric haze; keep high contrast from the art |
+| 2 胶片静帧 | Grainy film-still title, muted printed-ink feel, soft contrast, faint warm/cool shift; keep high contrast from the art |
 
 **溶字**：以溶字模板为准；写入前去掉旁侧图形/火漆印/绳结饰等「题字旁装饰」；**保留**字形自身的连笔、环绕笔画装饰。
 
